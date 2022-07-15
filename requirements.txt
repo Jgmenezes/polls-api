@@ -4,7 +4,7 @@ Automat==20.2.0
 certifi==2018.4.16
 cffi==1.14.0
 chardet==3.0.4
-codecov==2.0.15
+codecov==2.0.16
 constantly==15.1.0
 coreapi==2.3.3
 coreschema==0.0.4
